@@ -1,0 +1,15 @@
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\bin\Debug\net8.0\PersonCatalog.Application.deps.json
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\bin\Debug\net8.0\PersonCatalog.Application.dll
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\bin\Debug\net8.0\PersonCatalog.Application.pdb
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\bin\Debug\net8.0\PersonCatalog.Domain.dll
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\bin\Debug\net8.0\PersonCatalog.Domain.pdb
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\obj\Debug\net8.0\PersonCatalog.Application.csproj.AssemblyReference.cache
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\obj\Debug\net8.0\PersonCatalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\obj\Debug\net8.0\PersonCatalog.Application.AssemblyInfoInputs.cache
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\obj\Debug\net8.0\PersonCatalog.Application.AssemblyInfo.cs
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\obj\Debug\net8.0\PersonCatalog.Application.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\obj\Debug\net8.0\PersonCa.72C0FE92.Up2Date
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\obj\Debug\net8.0\PersonCatalog.Application.dll
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\obj\Debug\net8.0\refint\PersonCatalog.Application.dll
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\obj\Debug\net8.0\PersonCatalog.Application.pdb
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Application\obj\Debug\net8.0\ref\PersonCatalog.Application.dll

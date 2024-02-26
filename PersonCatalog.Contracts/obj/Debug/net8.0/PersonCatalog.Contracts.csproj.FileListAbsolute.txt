@@ -1,0 +1,11 @@
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\bin\Debug\net8.0\PersonCatalog.Contracts.deps.json
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\bin\Debug\net8.0\PersonCatalog.Contracts.dll
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\bin\Debug\net8.0\PersonCatalog.Contracts.pdb
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\obj\Debug\net8.0\PersonCatalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\obj\Debug\net8.0\PersonCatalog.Contracts.AssemblyInfoInputs.cache
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\obj\Debug\net8.0\PersonCatalog.Contracts.AssemblyInfo.cs
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\obj\Debug\net8.0\PersonCatalog.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\obj\Debug\net8.0\PersonCatalog.Contracts.dll
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\obj\Debug\net8.0\refint\PersonCatalog.Contracts.dll
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\obj\Debug\net8.0\PersonCatalog.Contracts.pdb
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Contracts\obj\Debug\net8.0\ref\PersonCatalog.Contracts.dll

@@ -1,0 +1,6 @@
+@PersonCatalog.Api_HostAddress = http://localhost:5252
+
+GET http://localhost:5252/weatherforecast/
+Accept: application/json
+
+###

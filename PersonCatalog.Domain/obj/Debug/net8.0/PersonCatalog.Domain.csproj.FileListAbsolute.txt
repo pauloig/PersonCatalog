@@ -1,0 +1,11 @@
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\bin\Debug\net8.0\PersonCatalog.Domain.deps.json
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\bin\Debug\net8.0\PersonCatalog.Domain.dll
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\bin\Debug\net8.0\PersonCatalog.Domain.pdb
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\obj\Debug\net8.0\PersonCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\obj\Debug\net8.0\PersonCatalog.Domain.AssemblyInfoInputs.cache
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\obj\Debug\net8.0\PersonCatalog.Domain.AssemblyInfo.cs
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\obj\Debug\net8.0\PersonCatalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\obj\Debug\net8.0\PersonCatalog.Domain.dll
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\obj\Debug\net8.0\refint\PersonCatalog.Domain.dll
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\obj\Debug\net8.0\PersonCatalog.Domain.pdb
+C:\Users\Paulo Ismalej\source\repos\PersonCatalog\PersonCatalog.Domain\obj\Debug\net8.0\ref\PersonCatalog.Domain.dll
